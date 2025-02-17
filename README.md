@@ -7,6 +7,6 @@ Having a large record collection I ran into a problem...
 When guests come over they get excited about the idea of picking a record. But actually flipping through a large and unknown collection can be a daunting task.
 That's why I created this html. Now I can set up a QR code, let guests pull up my collection on their phones, and they can sort, search and preview to their hearts content. 
 
-** ***For full transparency I find it important to let you all know I'm a bad coder and ChatGPT helped with some of this. Don't come at me with problems, I can barely operate GitHub*** **
+** ***ONE IMPORTANT NOTE ABOUT SECURITY: This HTML WILL reveal your Spotify and Discogs API's so either use locally or improve the security to your needs.*** **
 
 ### To use the file, simply insert your Spotify (lines 507 & 508) and Discogs (lines 566 & 567) API information and share and display as you see fit. 
