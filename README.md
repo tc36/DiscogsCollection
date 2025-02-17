@@ -1,7 +1,7 @@
 # Discogs Collection
 ### Display your record collection with this mobile-only html file that leverages the Discogs API to pull and populate information about your collection. <br/>
+** *I am not a coder. I don't plan on taking this project any further. Steal my code, please. Buy me a coffee if you want* **<br/>
 <br/>
-*I am not a coder. I don't plan on taking this project any further. Steal my code, please. Buy me a coffee if you want*<br/>
 <img src="https://github.com/tc36/DiscogsCollection/blob/main/Screenshot_20250217_161159_Chrome.jpg" width="150"/> <img src="https://github.com/tc36/DiscogsCollection/blob/main/Screenshot_20250217_161213_Chrome.jpg" width="150"/> <img src="https://github.com/tc36/DiscogsCollection/blob/main/Screenshot_20250217_161222_Chrome.jpg" width="150"/> <img src="https://github.com/tc36/DiscogsCollection/blob/main/Screenshot_20250217_161234_Chrome.jpg" width="150"/> <img src="https://github.com/tc36/DiscogsCollection/blob/main/Screenshot_20250217_161255_Chrome.jpg" width="150"/>
 
 
